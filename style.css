@@ -1,0 +1,27 @@
+.highlight{
+	color:red;
+	font-weight: bold;
+	border: 2px solid black;
+}
+
+.nametitle{
+	font-weight: bold;
+	font-size: 90%;
+}
+
+.input-section{
+	display:block;
+}
+
+.random-section{
+	display:inline-block;
+}
+.student-list{
+	border:1px solid black;
+	font-size:90%;
+}
+
+.group{
+	font-weight: bold;
+	font-size: 90%;
+}
